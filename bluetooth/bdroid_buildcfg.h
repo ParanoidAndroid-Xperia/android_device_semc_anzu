@@ -19,5 +19,9 @@
 #define _BDROID_BUILDCFG_H
 
 #define BTM_DEF_LOCAL_NAME   "Xperia Arc"
+<<<<<<< HEAD
+=======
+#define BTA_DISABLE_DELAY 1000 /* in milliseconds */
+>>>>>>> 3df6a3ccab3c16a6667d5419bd5d261b6ab3960c
 
 #endif
