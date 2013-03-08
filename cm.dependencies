@@ -6,12 +6,5 @@
   {
     "repository": "android_hardware_ti_fmradio",
     "target_path": "hardware/ti/fmradio"
-<<<<<<< HEAD
-=======
- },
- {
-   "repository": "semc-kernel-msm7x30",
-   "target_path": "kernel/semc/msm7x30"
->>>>>>> 3df6a3ccab3c16a6667d5419bd5d261b6ab3960c
   }
 ]
